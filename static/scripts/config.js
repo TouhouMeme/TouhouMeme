@@ -24,6 +24,7 @@ export default {
     "meme/你也是长者？.jpeg",
     "meme/你在期待什么.jpeg",
     "meme/刚刚群里出现了复读的异变！这要 怎么解决这次异变呢？.jpg",
+    "meme/刚刚这里好像有寿命论的气息啊.png",
     "meme/名侦探囧仙.jpg",
     "meme/哇多么好的机会啊.jpg",
     "meme/妈个陀螺仪的.jpg",
@@ -38,6 +39,7 @@ export default {
     "meme/条纹袜太谔谔了我不承认这是袜子.jpeg",
     "meme/活游戏「养乐多地狱」.png",
     "meme/灵机一动.jpeg",
+    "meme/爱的力量是无限的！！！.jpg",
     "meme/神主的肯定.jpeg",
     "meme/神仙眷侣.jpeg",
     "meme/稍等我接个电话.jpg",
