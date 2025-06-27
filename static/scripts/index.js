@@ -116,7 +116,7 @@ function view() {
     view.querySelector('h2').innerText = `# ${name}`
     for (const i of items) {
         let match = i.match(memeRegex);
-        if (match[2] === name) {
+        if (match && match[2] === name) {
             name = match[1];
             break;
         }
