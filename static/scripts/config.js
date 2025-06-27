@@ -47,6 +47,8 @@ export default {
     "meme/签到成功 这是你的签到奖励.jpeg",
     "meme/给我好好用thbwiki！.jpg",
     "meme/羡慕极了.jpg",
+    "meme/芙兰抱头蹲防.jpg",
+    "meme/蕾米抱头蹲防.jpg",
     "meme/让人有点嫉妒呢.jpg",
     "meme/这玩意儿可比八卦炉好用.jpeg",
     "meme/这鬼认得出啊.jpeg",
