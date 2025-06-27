@@ -23,6 +23,10 @@ jobs:
       - name: remove previous build
         run: |
           rm -f ./text/*.html
+      - name: Fix script permissions
+        run: |
+          chmod +x ./shell/genartlist.sh &&
+          chmod +x ./shell/art2text.sh
       - name: generate directory
         run: |
           ./shell/genartlist.sh
