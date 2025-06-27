@@ -27,7 +27,7 @@ cat > "text/index.html" <<EOF
     <meta name="description" content="车万梗图收集计划">
     <link rel="icon" href="/static/favicon.ico">
     <title>TouhouMeme | 车万梗图收集计划</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1.5.0/css/pico.min.css">
+    <link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/@picocss/pico@1.5.0/css/pico.min.css">
     <link rel="stylesheet" href="/static/style.css">
     <style>
         #view {
@@ -63,7 +63,7 @@ cat >> "text/index.html" <<EOF
         </footer>
     </main>
 </body>
-<script src="https://cdn.jsdelivr.net/gh/MarketingPipeline/Markdown-Tag/markdown-tag.js"></script> 
+<script src="https://fastly.jsdelivr.net/gh/MarketingPipeline/Markdown-Tag/markdown-tag.js"></script> 
 
 </html>
 EOF
