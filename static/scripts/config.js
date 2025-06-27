@@ -38,6 +38,7 @@ export default {
     "meme/条纹袜太谔谔了我不承认这是袜子.jpeg",
     "meme/活游戏「养乐多地狱」.png",
     "meme/灵机一动.jpeg",
+    "meme/爱的力量是无限的！！！.jpg",
     "meme/神主的肯定.jpeg",
     "meme/神仙眷侣.jpeg",
     "meme/稍等我接个电话.jpg",
