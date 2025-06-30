@@ -29,6 +29,7 @@ export default {
     "meme/刚刚这里好像有寿命论的气息啊.png",
     "meme/名侦探囧仙.jpg",
     "meme/哇多么好的机会啊.jpg",
+    "meme/喊谁BBA呢！.jpg",
     "meme/妈个陀螺仪的.jpg",
     "meme/寄了啦，都是你害的.png",
     "meme/帽子才是本体.jpeg",
