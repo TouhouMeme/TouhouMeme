@@ -41,6 +41,7 @@ export default {
     "meme/拉鸡.jpeg",
     "meme/换个头试试.jpeg",
     "meme/无聊，我要看到血流成河.jpg",
+    "meme/有罪！.jpg",
     "meme/条纹袜太谔谔了我不承认这是袜子.jpeg",
     "meme/活游戏「养乐多地狱」.png",
     "meme/灵机一动.jpeg",
